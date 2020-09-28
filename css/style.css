@@ -34,9 +34,9 @@ nav{
 
 nav ul{
 	padding: 10px;
-	display: grid;
-	grid-template-columns: repeat(5,auto);
-	grid-column-gap: 3%;
+	display: flex;
+	justify-content: space-between;
+	width: 95%;
 }
 
 nav ul li{
