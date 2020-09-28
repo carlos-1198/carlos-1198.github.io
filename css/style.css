@@ -67,6 +67,7 @@ nav ul li a{
 
 nav ul li a:hover{
 	background-color: #ff1a1a;
+	padding: 10px;
 }
 
 section{
